@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_rahul_k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="the_rahul_k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-kushwaha-98a0980205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-kushwaha-98a0980205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-kushwaha-98a080205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-kushwaha-98a0980205" height="30" width="40" /></a>
 <a href="https://fb.com/rahulkushwaha01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulkushwaha01" height="30" width="40" /></a>
 <a href="https://instagram.com/the._.rahul_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the._.rahul_" height="30" width="40" /></a>
 </p>
