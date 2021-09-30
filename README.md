@@ -1,6 +1,6 @@
 ### <h1> Hello World!, I'm Rahul Kushwaha.👋 </h1>
 
-<img align='right' alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="320" />
+<img align='right' alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47vlyvjvcsb6uqk5721tf6j590v69u24d86q2t2oom&rid=giphy.gif&ct=g" width="400" height="320" />
 
 ## About Me:
 
