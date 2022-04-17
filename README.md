@@ -14,7 +14,7 @@
 - Reading📖
 - Writing poems✍
 - Music🎶
-- Playing Cricket🏏 & Football⚽
+- Playing Cricket🏏, Football⚽ & Chess♟️
 - Watching movies/series📺
 - Travelling🧳
 
